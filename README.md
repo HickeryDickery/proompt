@@ -1,3 +1,17 @@
+# Proompt
+
+An AI Prompt Sharing platform to allow everyone to benefit from ingenious ways of getting excellent results from prompt-based AI tools and softwares.
+
+![Proompt Home Page](https://github.com/HickeryDickery/proompt/assets/75381076/ad74e641-cdd4-4a47-a889-e136c68680f8)
+
+Link: https://proompt-sigma.vercel.app/
+
+Log-in with your Google account, access and make use of prompts shared by different users or share your own.
+
+To share a prompt simply click on the "Create Post" button, write the prompt text and add tags describing the topic and AI-tool used for the prompt.   
+
+-----------------------------------------------------------------------------
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

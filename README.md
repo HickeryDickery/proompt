@@ -2,7 +2,7 @@
 
 An AI Prompt Sharing platform to allow everyone to benefit from ingenious ways of getting excellent results from prompt-based AI tools and softwares.
 
-![Proompt Home Page](https://github.com/HickeryDickery/proompt/assets/75381076/ad74e641-cdd4-4a47-a889-e136c68680f8)
+![Proompt Home Page](https://github.com/HickeryDickery/proompt/assets/75381076/f821fe7f-91bb-4c04-8d7f-931e5218ad50)
 
 Link: https://proompt-sigma.vercel.app/
 
